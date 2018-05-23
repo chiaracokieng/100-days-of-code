@@ -2,11 +2,11 @@
 
 ### Day 1: 2018-05-23
 
-**Today's Progress**: 
+**Today's Progress**: Went through Chapter 3 of Head First HTML and CSS: Building Blocks: Web Page Construction (57:30 mins)
 
-**Thoughts:** 
+**Thoughts:**: I don't even know how to publish this on the web yet. Github pages?
 
-**Link to work:**
+**Link to work:** file:///Users/chiaracokieng/Downloads/hfhtmlcss/chapter3/journal/chapter3.html -- it's just in my personal computer.
 
 ### Day 0: February 30, 2016 (Example 2)
 ##### (delete me or comment me out)
