@@ -1,5 +1,11 @@
 # 100 Days Of Code - Log
 
+### Day 2: 2018-05-24
+
+**Today's Progress**: Chapter of Head First HTML and CSS: 4. Getting Connected: A Trip to Webville (64:24 mins)
+
+**Thoughts:** Getting a little bored with this; want to create stuff!
+
 ### Day 1: 2018-05-23
 
 **Today's Progress**: Went through Chapter 3 of Head First HTML and CSS: Building Blocks: Web Page Construction (57:30 mins)
